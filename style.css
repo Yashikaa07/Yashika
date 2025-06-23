@@ -1,0 +1,51 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f9f6f2;
+    color: #333;
+}
+header {
+    background: #f3e6dc;
+    padding: 2rem;
+    text-align: center;
+}
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+header p {
+    margin: 0.5rem 0;
+    font-size: 1.2rem;
+}
+.buttons a {
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+    background: #cda27c;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+section {
+    padding: 2rem;
+}
+section h2 {
+    color: #a67c52;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+.project {
+    background: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #f3e6dc;
+    margin-top: 2rem;
+}
